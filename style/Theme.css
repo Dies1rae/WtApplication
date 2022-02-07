@@ -1,0 +1,138 @@
+
+.button {
+    width: 100px;
+    height: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 150px;
+    margin-right: auto;
+    position: relative;
+}
+
+.forms-inputs {
+    top: -18px;
+    left: 10px;
+    background-color: #fff;
+    padding: 5px 10px;
+    font-size: 15px;
+	height: 35px;
+    border: 2px solid #eee
+}
+
+
+.centered {
+	margin-top: 50px;
+}
+
+.centered-example {
+    width: 400px;
+    margin: 250px auto;
+}
+
+.text_lg {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 10px;
+	margin-right: auto;
+	font-size: 15px;
+}
+
+.text_ps {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 10px;
+	margin-right: auto;
+	font-size: 15px;
+}
+
+
+/*TOOLBAR THEME*/
+.topnav {
+	background-color: #333;
+	overflow: hidden;
+	position: fixed; 
+	top: 0; 
+  	width: 100%;
+	padding: 15px 15px;
+	padding-left: 20%;
+	display: flex;
+}
+
+
+.topnav-a {
+	position: relative;
+	margin-left: 38px;
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 10px 10px 10px 10px;
+	text-decoration: none;
+	border: 1px solid;
+}
+
+.topnav-a-username {
+	z-index: 999999;
+	position: fixed;
+	margin-left: 3%;
+	margin-top: -35px;
+	display: flex;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 10px 10px 10px 10px;
+	text-decoration: none;
+}
+
+/*CENTER, LEFT, RIGHT WIDGET STYLE*/
+.left-column-main {
+	float: left;
+  	padding: 10px;
+	width: 22%;
+	background-color:#aaa;
+	height: 100%;
+}
+
+.right-column-main {
+	float: left;
+	padding: 10px;
+	width: 78%;
+	background-color:#bbb;
+	height: 100%;
+}
+
+.row-main {
+	position: fixed;
+	height: 300000px;
+	display: flex;
+	clear: both;
+	width: 100%;
+	background-color:#aaa;
+}
+
+.left-wgt-info {
+	margin-left: 11%;
+}
+
+.right-wgt-info {
+
+}
+
+.leftnav {
+	overflow: hidden;
+	width: 100%;
+	padding-top: 30px;	  
+	padding-left: 5%;
+	display: block;
+}
+
+.leftnav-a {
+	margin-bottom: 38px;
+	margin-left: 30px;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 10px 100px 10px 10px;
+	text-decoration: none;
+	border: 1px solid;
+	position: relative;
+}
+

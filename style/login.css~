@@ -1,0 +1,67 @@
+.login table {
+  width: 0%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.login .table-bordered {
+  border: 1px solid #DDD;
+  border-left: 0;
+  border-radius: 4px;
+}
+
+.login .table-sm th,
+.login .table-sm td {
+  padding: 4px 5px;
+}
+
+.login .code {
+  font-family: andale mono;
+  color: #570;
+  font-size: 97%;
+}
+
+.login .info {
+  background-color: #D9EDF7;
+}
+
+.login button {
+  width: 50px;
+  height: 15px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.login .forms-inputs {
+    position: relative
+}
+
+.login .forms-inputs span {
+    position: absolute;
+    top: -18px;
+    left: 10px;
+    background-color: #fff;
+    padding: 5px 10px;
+    font-size: 15px
+}
+
+.login .forms-inputs input {
+    height: 50px;
+    border: 2px solid #eee
+}
+
+.login .forms-inputs input:focus {
+    box-shadow: none;
+    outline: none;
+    border: 2px solid #000
+}
+
+.centered {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centered-example {
+    width: 400px;
+    margin: 0px auto;
+}
